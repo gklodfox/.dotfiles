@@ -1,0 +1,24 @@
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/gklodfox/fox-neovim-config
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/gklodfox/fox-kitty-config
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/gklodfox/fox-tmux-config
+[submodule "i3"]
+	path = i3
+	url = https://github.com/gklodfox/fox-i3-config
+[submodule "fish"]
+	path = fish
+	url = https://github.com/gklodfox/fox-fish-config
+[submodule "picom"]
+	path = picom
+	url = https://github.com/gklodfox/fox-picom-config
+[submodule "dunst"]
+	path = dunst
+	url = https://github.com/gklodfox/fox-dunst-config
+[submodule "aichat"]
+	path = aichat
+	url = https://github.com/gklodfox/fox-aichat-config
